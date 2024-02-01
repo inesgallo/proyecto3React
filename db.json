@@ -1,0 +1,19 @@
+{
+    "Usuario": [
+        {
+            "id": 1,
+            "nombre": "Inés",
+            "edad": "87"
+        },
+        {
+            "id": 2,
+            "nombre": "Inés",
+            "edad": "87"
+        },
+        {
+            "id": 1,
+            "nombre": "Inés",
+            "edad": "87"
+        }
+    ]
+}
