@@ -1,19 +1,12 @@
 {
-    "Usuario": [
-        {
-            "id": 1,
-            "nombre": "Inés",
-            "edad": "87"
-        },
-        {
-            "id": 2,
-            "nombre": "Inés",
-            "edad": "87"
-        },
-        {
-            "id": 1,
-            "nombre": "Inés",
-            "edad": "87"
-        }
-    ]
+  "Usuario": [
+    {
+      "id": "a21a",
+      "nombre": "Inés",
+      "ape1": "Gallo",
+      "ape2": "Frías",
+      "mail": "anainesgf@gmail.com",
+      "telf": "659262007"
+    }
+  ]
 }
